@@ -146,7 +146,7 @@ Library | Version | Notes
   sls logs -f hello -t
 
   // Optionally fetch only the logs that contain the string serverless
-  serverless logs -f hello --filter serverless
+  sls logs -f hello --filter serverless
   ``` 
 
 11. To remove the deployed service, defined in your current working directory
