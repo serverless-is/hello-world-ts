@@ -12,7 +12,7 @@
   "devDependencies": {
     "@types/aws-lambda": "~8.10.67",
     "@types/node": "~14.14.14",
-    "fork-ts-checker-webpack-plugin": "~6.0.8",
+    "fork-ts-checker-webpack-plugin": "~6.3.1",
     "@serverless/typescript": "github:serverless/typescript",
     "serverless-webpack": "~5.3.5",
     "ts-loader": "~8.0.12",
